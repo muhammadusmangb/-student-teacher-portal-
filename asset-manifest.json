@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/-student-teacher-portal-/static/css/main.538828f0.css",
+    "main.js": "/-student-teacher-portal-/static/js/main.ef4a53da.js",
+    "index.html": "/-student-teacher-portal-/index.html",
+    "main.538828f0.css.map": "/-student-teacher-portal-/static/css/main.538828f0.css.map",
+    "main.ef4a53da.js.map": "/-student-teacher-portal-/static/js/main.ef4a53da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.538828f0.css",
+    "static/js/main.ef4a53da.js"
+  ]
+}
